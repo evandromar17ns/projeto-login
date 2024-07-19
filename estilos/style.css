@@ -39,9 +39,10 @@ section#login {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+  
     overflow: hidden;
     box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.456);
+    transform: translate(-50%, -50%);
 
 
 
@@ -112,10 +113,11 @@ div.campo>input {
     font-size: 1em;
     width:calc(100% - 45px);
     height: 100%;
-    transform: translateY(-10.6PX);
+   
     border: 0px;
     border-radius: 8px;
     padding: 20px;
+    transform: translateY(-10.6PX);
    
 }
 
